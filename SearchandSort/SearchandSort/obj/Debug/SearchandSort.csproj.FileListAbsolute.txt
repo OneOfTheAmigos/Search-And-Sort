@@ -1,0 +1,10 @@
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\bin\Debug\SearchandSort.exe.config
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\bin\Debug\SearchandSort.exe
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\bin\Debug\SearchandSort.pdb
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.csprojAssemblyReference.cache
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.Form1.resources
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.Properties.Resources.resources
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.csproj.GenerateResource.cache
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.csproj.CoreCompileInputs.cache
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.exe
+C:\Users\ecotr\source\repos\SearchandSort\SearchandSort\obj\Debug\SearchandSort.pdb
